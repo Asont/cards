@@ -1,0 +1,25 @@
+.projectBlock {
+    background-color: #e7eaf6;
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 50px 0;
+}
+
+.title {
+    padding: 10px 0 0 20px;
+    font-weight: bold;
+    font-size:20px;
+}
+.packsList{
+    display: flex;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
